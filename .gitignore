@@ -1,7 +1,13 @@
 /client/node_modules/
 /posts/node_modules/
 /comments/node_modules/
+event-bus/node_modules/
+query/node_modules/
+moderation/node_modules/
 
 client/package-lock.json
 comments/package-lock.json
 posts/package-lock.json
+event-bus/package-lock.json
+query/package-lock.json
+moderation/package-lock.json
